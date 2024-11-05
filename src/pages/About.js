@@ -5,12 +5,12 @@ const teamMembers = [
   {
     name: 'Josh Park',
     image: 'https://i.ibb.co/MZxgh9J/Screen-Shot-2024-10-17-at-10-12-29-PM.png',
-    description: 'Josh is a recent Pepperdine alumni who will be attending medical school in the fall of 2025. He received his B.A. in Chemistry and has a passion for teaching, missions, and Korea! ',
+    description: 'Josh is a recent Pepperdine alumn who will be attending medical school in the fall of 2025. He received his B.A. in Chemistry and has a passion for teaching, missions, and Korea! ',
   },
   {
     name: 'Claire Lee',
     image: 'https://i.ibb.co/W26DXHF/claire-img.jpg',
-    description: 'Claire is a Pepperdine alumni with a B.A. in Political Science and Economics. A southern California native, she now resides in Washington, D.C. She attends Waterfront Church and enjoys reading books in her free time.',
+    description: 'Claire is a Pepperdine alumn with a B.A. in Political Science and Economics. A southern California native, she now resides in Washington, D.C. She attends Waterfront Church and enjoys reading books in her free time.',
   },
   {
     name: 'Yejin Seo',
